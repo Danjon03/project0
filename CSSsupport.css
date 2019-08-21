@@ -14,13 +14,15 @@ div
 	#top{
 		
 		height: 60px;
+		text-align: center;
 	}
 	
 	#middleSection{
 		
-		height: 800px;
+		height: 700px;
 		background-color: red;
 		border: 20px solid red;
+		text-align: center;
 	}
 	
 	#bottom{
